@@ -15,7 +15,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
+[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)]()
 [![TOR](https://img.shields.io/badge/Powered%20by-TOR-7D4698.svg)](https://www.torproject.org/)
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Requirements](#-requirements) • [Disclaimer](#-disclaimer)
