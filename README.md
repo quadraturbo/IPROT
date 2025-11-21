@@ -24,7 +24,7 @@
 
 ---
 
-## 📋 Overview
+##   Overview
 
 **IPROT** is a lightweight, cross-platform Python script that automatically rotates your public IP address at configurable intervals using the TOR network. Designed with operational security (OPSEC) in mind, it provides a simple yet effective solution for maintaining anonymity online.
 
@@ -46,7 +46,7 @@ cd iprot
 python iprot.py
 ```
 
-## 📦 Requirements
+##   Requirements
 
 ### Core Dependencies
 - Python 3.7+
