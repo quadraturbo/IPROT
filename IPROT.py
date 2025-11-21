@@ -15,6 +15,7 @@ ASCII_ART = """
 ██║██║     ██║  ██║╚██████╔╝   ██║   
 ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝    ╚═╝   
 """
+print("by quadraturbo <3\n")
 
 def signal_handler(sig, frame):
     print("\n[!] Deteniendo IPROT...")
