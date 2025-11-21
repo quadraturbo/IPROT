@@ -105,7 +105,7 @@ scoop install tor curl netcat
 ```
 </details>
 
-## 💻 Usage
+##   Usage
 
 1. **Run the script:**
    ```bash
@@ -198,7 +198,7 @@ Verify:
 - netcat is available
 </details>
 
-## 📝 Disclaimer
+##  Disclaimer
 
 This tool is provided for **educational and research purposes only**. Users are responsible for complying with all applicable laws and regulations in their jurisdiction. The authors assume no liability for misuse or damage caused by this software.
 
@@ -225,6 +225,6 @@ Contributions are welcome! Feel free to:
 
 **[⬆ Back to Top](#-iprot)**
 
-Made with ❤️ for privacy enthusiasts
+Made with ❤️ for privacy enthusiasts (and for practice!!) 
 
 </div>
