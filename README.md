@@ -41,7 +41,7 @@
 ##  Quick Start
 
 ```bash
-git clone https://github.com/yourusername/iprot.git
+git clone https://github.com/quadraturbo/iprot.git
 cd iprot
 python iprot.py
 ```
