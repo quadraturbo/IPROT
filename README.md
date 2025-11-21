@@ -28,17 +28,17 @@
 
 **IPROT** is a lightweight, cross-platform Python script that automatically rotates your public IP address at configurable intervals using the TOR network. Designed with operational security (OPSEC) in mind, it provides a simple yet effective solution for maintaining anonymity online.
 
-## ✨ Features
+## Features
 
-- 🔄 **Automatic IP Rotation** - Change your public IP at custom intervals
-- 🖥️ **Cross-Platform** - Works seamlessly on Windows and Linux
-- 🎯 **Simple Interface** - Minimal configuration required
-- 🔒 **OPSEC Focused** - Routes traffic through TOR network
-- 📊 **Real-time Monitoring** - Displays current IP before and after rotation
-- ⚡ **Lightweight** - No heavy dependencies or complex setup
-- 🛡️ **Privacy First** - No data collection or logging
+-  **Automatic IP Rotation** - Change your public IP at custom intervals
+-  **Cross-Platform** - Works seamlessly on Windows and Linux
+-  **Simple Interface** - Minimal configuration required
+-  **OPSEC Focused** - Routes traffic through TOR network
+-  **Real-time Monitoring** - Displays current IP before and after rotation
+-  **Lightweight** - No heavy dependencies or complex setup
+-  **Privacy First** - No data collection or logging
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 git clone https://github.com/yourusername/iprot.git
@@ -88,7 +88,7 @@ sudo systemctl enable tor
 </details>
 
 <details>
-<summary><b>🪟 Windows</b></summary>
+<summary><b> Windows</b></summary>
 
 **Option 1: TOR Expert Bundle**
 1. Download from [torproject.org](https://www.torproject.org/download/tor/)
@@ -133,7 +133,7 @@ scoop install tor curl netcat
 5. **Stop the script:**
    - Press `Ctrl+C` to gracefully exit
 
-## 🎯 Use Cases
+##  Use Cases
 
 - **Privacy Research** - Test anonymity tools and techniques
 - **Web Scraping** - Avoid IP-based rate limiting
@@ -141,7 +141,7 @@ scoop install tor curl netcat
 - **Development** - Test multi-region functionality
 - **OSINT Operations** - Maintain anonymity during investigations
 
-## 🔧 Configuration
+##  Configuration
 
 The script is configured through interactive prompts:
 
@@ -152,7 +152,7 @@ The script is configured through interactive prompts:
 | TOR Port | SOCKS5 proxy port | 9050 |
 | Control Port | TOR control port | 9051 |
 
-## 📸 Screenshots
+##  Screenshots
 
 ```
 [0] IP actual: 185.220.101.45
@@ -164,7 +164,7 @@ The script is configured through interactive prompts:
 [✓] Nueva IP: 91.216.79.178
 ```
 
-## 🛡️ Security Considerations
+##  Security Considerations
 
 - All traffic is routed through TOR SOCKS5 proxy (127.0.0.1:9050)
 - No logs are stored locally or remotely
@@ -172,7 +172,7 @@ The script is configured through interactive prompts:
 - Ensure TOR is properly configured before use
 - Consider additional OPSEC measures for sensitive operations
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 <details>
 <summary><b>TOR not detected</b></summary>
@@ -204,20 +204,17 @@ This tool is provided for **educational and research purposes only**. Users are 
 
 **Use responsibly and ethically.**
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to:
 
-- 🐛 Report bugs
-- 💡 Suggest features
-- 🔧 Submit pull requests
-- 📖 Improve documentation
+-  Report bugs
+-  Suggest features
+-  Submit pull requests
+-  Improve documentation
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [The TOR Project](https://www.torproject.org/) for providing the anonymity network
 - The open-source community for inspiration and tools
