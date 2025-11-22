@@ -20,6 +20,9 @@ by quadraturbo <3
 
 def signal_handler(sig, frame):
     print("\n[!] Deteniendo IPROT...")
+    print("[i] Remember... no Google!")
+    time.sleep(0.2)
+    print(":)")
     sys.exit(0)
 
 def clear_screen():
