@@ -347,7 +347,7 @@ Verify:
 
 ## Disclaimer
 
-This tool is provided for **educational and research purposes only**. Users are responsible for complying with all applicable laws and regulations in their jurisdiction. The authors assume no liability for misuse or damage caused by this software.
+This tool is provided for **educational and research purposes only**. Users are responsible for complying with all applicable laws and regulations in their jurisdiction. The author assumes no liability for misuse or damage caused by this software.
 
 **Use responsibly and ethically.**
 
