@@ -13,7 +13,7 @@
 
 **Automated Public IP Rotation Tool via TOR**
 
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.0+-blue.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey.svg)]()
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![TOR](https://img.shields.io/badge/Powered%20by-TOR-7D4698.svg)](https://www.torproject.org/)
@@ -49,7 +49,7 @@ python iprot.py
 ## Requirements
 
 ### Core Dependencies
-- Python 3.7+
+- Python 3+
 - TOR
 - curl
 - netcat (nc)
